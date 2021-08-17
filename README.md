@@ -10,7 +10,8 @@ This project was built using below technologies.
 1. JavaScript
 2. HTML
 3. CSS
-4. VsCode
+4. GSAP
+5. VsCode
 
 # How to get started?
 
