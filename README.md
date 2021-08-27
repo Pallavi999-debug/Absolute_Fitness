@@ -3,7 +3,11 @@
   <a href="https://absolute-fitness.vercel.app/" target="">Absolute_Fitness</a>
 </h2>
 
-![absolute fitness](https://user-images.githubusercontent.com/79240706/129671425-d501660b-2dd9-4a40-8013-efe2387bed48.PNG)
+<div align="center">
+  
+ <img alt="Demo" src="./images/absolute domestics.PNG" />
+
+</div>
 
 
 # Built With
