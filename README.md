@@ -15,6 +15,7 @@ This project was built using below technologies.
 3. CSS
 4. GSAP
 5. VsCode
+6. Vercel
 
 # How to get started?
 
