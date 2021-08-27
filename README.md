@@ -5,7 +5,7 @@
 
 <div align="center">
   
- <img alt="Demo" src="./images/absolute domestics.PNG" />
+ <img alt="Demo" src="./images/absolute fitness.PNG" />
 
 </div>
 
